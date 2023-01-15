@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BruceQiu1996
-- 👀 I’m interested in .net/java/typescript
+- 👀 I’m interested in C#/Java/Typescript
 - 📫 How to reach me 1149809644@qq.com
